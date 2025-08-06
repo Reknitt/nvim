@@ -1,0 +1,3 @@
+require("config.remap")
+require("config.lazy")
+vim.cmd('colorscheme rose-pine')
